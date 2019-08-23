@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const optimize = require('../lib/optimize');
+const iconic = require('../lib');
 
-optimize(process.cwd());
+iconic(process.cwd());
