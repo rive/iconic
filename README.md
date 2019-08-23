@@ -33,3 +33,10 @@ which contains icon path and color information and can be imported directly into
 any js project.
 
 ## use your icons
+
+```jsx
+import Icon from "foobar-react/icon";
+import cross from "foobar-icons/cross";
+
+<Icon data={cross} />;
+```
