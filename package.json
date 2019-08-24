@@ -4,7 +4,7 @@
   "description": "build svg icons that can be used in html, angular, react and vue",
   "main": "lib/index.js",
   "scripts": {
-    "test": "cd test && rm -f *.svg *.js *.json && cp test-stroke.svg.in test-stroke.svg && node ../bin/index.js"
+    "test": "cd test && cp test-stroke.svg.in test-stroke.svg && node ../bin/index.js"
   },
   "repository": {
     "type": "git",
