@@ -1,6 +1,6 @@
 {
   "name": "@rive/iconic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "build svg icons that can be used in html, angular, react and vue",
   "main": "lib/index.js",
   "scripts": {
